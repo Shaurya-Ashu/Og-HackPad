@@ -39,11 +39,9 @@ I have used fusion education for designing the case of my OgHackPack.
 It went surprisingly well . It also has a stand so it could sit at 60° angle from the bench.
 Here are some of the rendering from fusion and Blender.
 <img width="952" height="533" alt="Screenshot 2026-01-28 at 2 02 11 AM" src="https://github.com/user-attachments/assets/2d991dd7-8577-452b-896a-22ac64c86a34" />
-<img width="2880" height="1226" alt="OgHackpad v2" src="https://github.com/user-attachments/assets/2007bf45-88b9-4053-9630-cd2ee9fcf262" />
 
 
-
-
+<img width="2880" height="1226" alt="OgHackpad v3" src="https://github.com/user-attachments/assets/8f021a1f-a1ed-478b-af69-872f60093683" />
 
 
 
