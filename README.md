@@ -1,4 +1,4 @@
-# Og-HackPad
+<img width="1920" height="1080" alt="OGHACKPADV3" src="https://github.com/user-attachments/assets/ba21afcd-ec0f-4048-8f82-456a3be22199" /># Og-HackPad
 Hello guys it's an Og HackPad for blueprint hack club . It controls the music and the vibe of the room it has three keyboard switches, 16 RGB LED and a volume controller with a small oled, displaying the name of the song .It's all controlled by XIAO R2040 the "BRAINS" and powered by US PC
 
 # who am I?
@@ -38,7 +38,9 @@ Finding all the models and footprint for a headache, but at last it's all done.
 I have used fusion education for designing the case of my OgHackPack.
 It went surprisingly well . It also has a stand so it could sit at 60° angle from the bench.
 Here are some of the rendering from fusion and Blender.
-<img width="952" height="533" alt="Screenshot 2026-01-28 at 2 02 11 AM" src="https://github.com/user-attachments/assets/2d991dd7-8577-452b-896a-22ac64c86a34" />
+
+<img width="1920" height="1080" alt="OGHACKPADV3" src="https://github.com/user-attachments/assets/376da009-daff-4aec-a2d2-ffedcde76956" />
+
 
 
 <img width="2880" height="1226" alt="OgHackpad v3" src="https://github.com/user-attachments/assets/8f021a1f-a1ed-478b-af69-872f60093683" />
