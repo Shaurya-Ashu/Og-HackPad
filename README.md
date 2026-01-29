@@ -30,9 +30,9 @@ So here are all the connections
 # PCB 
 I have designed the PCB in KiCad
 Finding all the models and footprint for a headache, but at last it's all done.
-<img width="902" height="515" alt="Screenshot 2026-01-28 at 1 59 46 AM" src="https://github.com/user-attachments/assets/f99710e4-e6c8-4e0c-8152-ff7f1410dad5" />
+<img width="902" height="515" alt="Screenshot 2026-01-28 at 1 59 46 AM" src="https://github.com/user-attachments/assets/4db85226-66cf-4a07-98dd-d7660a9ba1ea" />
+<img width="839" height="393" alt="Screenshot 2026-01-28 at 2 00 02 AM" src="https://github.com/user-attachments/assets/7493416b-f0f1-4c8c-9a5a-8757ad138d1d" />
 
-<img width="839" height="393" alt="Screenshot 2026-01-28 at 2 00 02 AM" src="https://github.com/user-attachments/assets/57f83369-c598-47ee-b9ed-9fc7a3ca2e68" />
 
 # CAD 
 I have used fusion education for designing the case of my OgHackPack.
