@@ -32,8 +32,9 @@ So here are all the connections
 # PCB 
 I have designed the PCB in KiCad
 Finding all the models and footprint for a headache, but at last it's all done.
-<img width="902" height="515" alt="Screenshot 2026-01-28 at 1 59 46 AM" src="https://github.com/user-attachments/assets/4db85226-66cf-4a07-98dd-d7660a9ba1ea" />
-<img width="839" height="393" alt="Screenshot 2026-01-28 at 2 00 02 AM" src="https://github.com/user-attachments/assets/7493416b-f0f1-4c8c-9a5a-8757ad138d1d" />
+
+<img width="750" height="439" alt="Screenshot 2026-01-29 at 6 20 01 PM" src="https://github.com/user-attachments/assets/82b8e132-5827-4ac2-91b5-e1e5a5013a21" />
+<img width="965" height="531" alt="Screenshot 2026-01-29 at 5 54 18 PM" src="https://github.com/user-attachments/assets/0ca7f9b4-45e8-4483-9a6f-dc6c5a97d5b5" />
 
 
 # CAD 
