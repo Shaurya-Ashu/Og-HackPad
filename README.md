@@ -15,8 +15,8 @@ Oh this is SHAURYA , I am a young inventor and passionate about cool robotic stu
 | 5   | SK6812 MINI-E LEDs | 16 |
 | 6   | 3D PRINTED CASE  | 1 |
 | 7   | PCB              | 1 |
-| 8   | M3x16mm screws   | 6 |
-| 9   | M3x5mx4mm heatset inserts | 6 |
+| 8   | M3x16mm screws   | 4 |
+| 9   | M3x5mx4mm heatset inserts | 4 |
 
 # schematic 
 So here are all the connections
@@ -43,12 +43,9 @@ It went surprisingly well . It also has a stand so it could sit at 60° angle fr
 Here are some of the rendering from fusion and Blender.
 
 
-<img width="1920" height="1080" alt="OGHACKPADV3" src="https://github.com/user-attachments/assets/ba21afcd-ec0f-4048-8f82-456a3be22199" />
+<img width="2880" height="1226" alt="OgHackpad v4" src="https://github.com/user-attachments/assets/9609ceae-2443-44d5-b364-1599db48119e" />
 
-
-<img width="2880" height="1226" alt="OgHackpad v3" src="https://github.com/user-attachments/assets/8f021a1f-a1ed-478b-af69-872f60093683" />
-
-
+<img width="1920" height="1080" alt="1U" src="https://github.com/user-attachments/assets/b2a9c0ec-b1ce-4792-b4f8-985f11d34b50" />
 
 
 
