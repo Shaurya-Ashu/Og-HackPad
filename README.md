@@ -15,6 +15,8 @@ Oh this is SHAURYA , I am a young inventor and passionate about cool robotic stu
 | 5   | SK6812 MINI-E LEDs | 16 |
 | 6   | 3D PRINTED CASE  | 1 |
 | 7   | PCB              | 1 |
+| 8   | M3x16mm screws   | 6 |
+| 9   | M3x5mx4mm heatset inserts | 6 |
 
 # schematic 
 So here are all the connections
