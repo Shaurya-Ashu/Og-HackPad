@@ -1,3 +1,7 @@
+<!-- boardrepo-badge:v1 -->
+[![View on BoardRepo](https://boardrepo.com/badge/github.svg?v=2)](https://boardrepo.com/b/172d677d-be8d-46c7-be5e-fba685f95069?ref=github-readme)
+<!-- /boardrepo-badge:v1 -->
+
 # Og-HackPad
 Hello guys it's an Og HackPad for blueprint hack club . It controls the music and the vibe of the room it has three keyboard switches, 16 RGB LED and a volume controller with a small oled, displaying the name of the song .It's all controlled by XIAO R2040 the "BRAINS" and powered by US PC
 
